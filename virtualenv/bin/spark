@@ -1,0 +1,3 @@
+#!/home/oussama/master/Big_data/project/virtualenv/bin/python3
+from spark import spark_admin
+spark_admin.main()
