@@ -1,0 +1,6 @@
+<pipeline>
+    <librarie></librarie>
+    <model algorithm="" >
+        <dataset></dataset>
+    </model>
+</pipeline>
