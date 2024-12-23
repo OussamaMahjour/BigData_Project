@@ -75,5 +75,5 @@ if __name__ == "__main__":
                                 start=datetime(year=2024,month=12,day=22,hour=00,minute=0).timestamp()*1000)
     lag_data = getLagDataset(response,"open_price")
     data = pd.DataFrame(lag_data)
-    data.to_csv("lag_valid_dataset.csv",index=False)
+    data.to_csv("dataset.csv",index=False)
 
